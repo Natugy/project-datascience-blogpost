@@ -24,3 +24,5 @@ markdown: kramdown
 kramdown:
   math_engine: mathjax
 future: true
+include:
+  - figures

@@ -7,6 +7,8 @@ baseurl:             ''
 paginate:            5
 permalink:           pretty
 
+theme: minima
+
 # About/contact
 author:
   name:              Qi Li
@@ -24,5 +26,8 @@ markdown: kramdown
 kramdown:
   math_engine: mathjax
 future: true
+# Keep or include the figures directory
 include:
+  - figures
+keep_files:
   - figures

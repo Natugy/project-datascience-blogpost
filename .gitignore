@@ -46,3 +46,4 @@ bower_components
 __pycache__/
 .ipynb_checkpoints/
 _site
+_site/
